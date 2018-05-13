@@ -4,7 +4,11 @@ var transitionwords = [
     'albeit',
     'also',
     'although',
-    'altogether'
+    'altogether',
+    'another',
+    'basically',
+    'because',
+    'before'
 ];
 
 var translation = [
@@ -13,5 +17,9 @@ var translation = [
     'chociaż, jednak',
     'również, także, ponadto',
     'mimo że, pomimo że',
-    'ogólnie rzecz biorąc'
+    'ogólnie rzecz biorąc',
+    'kolejny, jeszcze jeden, dodatkowy',
+    'w zasadzie, zasadniczo',
+    'ponieważ, dlatego że, bo',
+    'przed, zanim; wcześniej, poprzednio'
 ];
