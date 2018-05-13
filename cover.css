@@ -104,3 +104,23 @@ body {
 .mastfoot {
   color: rgba(255, 255, 255, .5);
 }
+
+/*
+ * Other
+ */
+ #yoast {
+   border-bottom:2px groove;
+   padding-bottom:5px;
+   border-color:#f73e3e;
+   max-width:548px;
+   width:100%;
+ }
+
+ .words {
+  border:2px groove;
+  border-color:#f73e3e;
+ }
+
+ .redlink, .redlink:hover {
+   color: #f73e3e;
+ }
