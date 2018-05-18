@@ -1,6 +1,6 @@
 function TranslationWord(){
 
-var randomnumber = Math.floor(Math.random() * 6);
+var randomnumber = Math.floor(Math.random() * 101);
 
 console.log(randomnumber);
 
